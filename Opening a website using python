@@ -1,0 +1,3 @@
+import webbrowser
+print("Enter the Uniform Resource Loader (URL) of the website you want to acess")
+webbrowser.open(raw_input(), new=0, autoraise=True)
